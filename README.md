@@ -4,7 +4,7 @@ I’m an aspiring **Computer Science and Information Technology** student passio
 
 ### 🚀 About Me  
 - 💡 Exploring the role of **AI in web development and security**  
-- 🛠️ Skilled in **HTML, CSS, JavaScript and ReactJS**  
+- 🛠️ Skilled in **HTML, CSS, JavaScript and React**  
 - 📚 Always eager to **learn and contribute** to innovative advancements in technology  
 - 🔍 Actively seeking opportunities to apply my skills to **real-life projects**  
 
